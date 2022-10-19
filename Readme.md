@@ -29,6 +29,9 @@
   
 2.) Or compile for npm:
 - `wasm-pack build --target bundler`
+- `cd pkg`
+- `npm link`
+
 
 
 

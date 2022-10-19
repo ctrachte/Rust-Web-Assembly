@@ -1,3 +1,3 @@
-import("./node_modules/hello-wasm/hello_wasm.js").then((js) => {
+import("./node_modules/rust_web_assembly/rust_web_assembly.js").then((js) => {
     js.greet("WebAssembly with npm");
   });

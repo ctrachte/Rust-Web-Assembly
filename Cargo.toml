@@ -1,5 +1,5 @@
 [package]
-name = "Rust-Web-Assembly"
+name = "rust_web_assembly"
 version = "0.1.0"
 authors = ["Caleb Trachte <cetrachte@hotmail.com>"]
 description = "A sample project with wasm-pack, using the Rust programming language"
