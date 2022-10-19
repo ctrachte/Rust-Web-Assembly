@@ -22,6 +22,15 @@
   
 ## How To Use
 
+*Before running this project, you must have Rust and Cargo installed, then install dependencies.*
+
+1.) Compile to build locally: 
+- `wasm-pack build --target web`
+  
+2.) Or compile for npm:
+- `wasm-pack build --target bundler`
+
+
 
 # Run the app
 
