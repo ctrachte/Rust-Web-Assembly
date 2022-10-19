@@ -1,10 +1,10 @@
 [package]
-name = "hello-wasm"
+name = "Rust-Web-Assembly"
 version = "0.1.0"
-authors = ["Your Name <you@example.com>"]
-description = "A sample project with wasm-pack"
+authors = ["Caleb Trachte <cetrachte@hotmail.com>"]
+description = "A sample project with wasm-pack, using the Rust programming language"
 license = "MIT/Apache-2.0"
-repository = "https://github.com/yourgithubusername/hello-wasm"
+repository = "https://github.com/ctrachte/Rust-Web-Assembly"
 edition = "2018"
 
 [lib]
