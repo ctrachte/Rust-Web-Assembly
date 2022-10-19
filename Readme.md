@@ -24,6 +24,8 @@
 
 
 # Run the app
+
+```
 $ cargo run build
 ```
 ## Credits
